@@ -1,0 +1,8 @@
+name: MathGUIcapth
+version: '${project.version}'
+main: me.gus.mathguicapth.MathGUIcapth
+authors: [ Gus ]
+
+commands:
+  gcap:
+    description: Opens Menu
